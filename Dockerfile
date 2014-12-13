@@ -1,7 +1,5 @@
-# shout
-# Run shout (https://github.com/erming/shout)
-#
-# VERSION               0.0.2
+# grynn/speedtest       https://github.com/Grynn/docker-speedtest
+# VERSION               0.0.1
 
 FROM            debian:jessie
 MAINTAINER      Vishal Doshi (vishal.doshi@gmail.com)
