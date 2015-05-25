@@ -1,7 +1,7 @@
 # grynn/speedtest       https://github.com/Grynn/docker-speedtest
-# VERSION               0.0.1
+# VERSION               0.0.2
 
-FROM            debian:jessie
+FROM            grynn/ubuntu:trusty
 MAINTAINER      Vishal Doshi (vishal.doshi@gmail.com)
 
 # Don't want to pollute the env with DEBIAN_FRONTEND
